@@ -1,2 +1,1 @@
-# gulp-example
-Gulp Example
+## Gulp Example
